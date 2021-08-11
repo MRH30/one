@@ -59,7 +59,7 @@ a:hover {
 
 .bottom-container {
   background-color: #0CECDD;
-  padding: 50px 0 20px;
+  padding: 30px 0 20px;
 }
 
 .skill-row {
@@ -107,6 +107,7 @@ a:hover {
 
 .not{
   font-size: 25%;
+  padding-top: 10px;
 }
 .code-img {
   width: 25%;
