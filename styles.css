@@ -95,16 +95,19 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 200px;
+  right: 230px;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 200px;
+  left: 230px;
   bottom: 300px;
 }
 
+.not{
+  font-size: 25%;
+}
 .code-img {
   width: 25%;
   float: left;
